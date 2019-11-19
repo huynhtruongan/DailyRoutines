@@ -1,2 +1,2 @@
 # DailyRoutines
-list activites on day
+You will get the job, 30 days left!
