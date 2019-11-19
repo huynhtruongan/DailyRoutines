@@ -25,16 +25,17 @@ the complete developer bootcamp
 angular [fullapp]
   + EXPECTED DATE: 09/12/2019
   + END IN: 11h 11/12/2019
-BIG PROJECT
-  + EXPECTED DATE: 09/12/2019
-  + END IN: 44.5h 13/12/2019
+BIG PROJECT: 12/12/2019-16/12/2019
+  + EXPECTED DATE: 16/12/2019
+  + END IN: 44.5h 20/12/2019
 / -React js- /
 react - the complete guide
-  + EXPECTED DATE: 13/12/2019
-  + END IN: 44.5h 17/12/2019
+  + EXPECTED DATE: 21/12/2019
+  + END IN: 44.5h 26/12/2019
 / -Advanced course- /
 junior to senior roadmap
-  + EXPECTED DATE: 18/12/2019
-  + END IN: 34.5h 21/12/2019
+  + EXPECTED DATE: 27/12/2019
+  + END IN: 34.5h 01/01/2020
 BIG PROJECT
-  
+  02/01/2020-06/01/2020
+CV-English: 10/01/2020
