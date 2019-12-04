@@ -3,39 +3,39 @@ advanced javascript concept
   + 19/11/2019: 
       - Summary from cratch to today 
       - Module in javascript 
-  + END IN: 10h44' 21/11/2019
+  + END IN: 10h44' 5/12/2019
 master coding interview 
-  + EXPECTED DATE: 22/11/2019
-  + END IN: 19h 25/11/2019
+  + EXPECTED DATE: 6/12/2019
+  + END IN: 19h 9/12/2019
 advanced css & sass
-  + EXPECTED DATE: 26/11/2019
-  + END IN: 28h 29/11/2019
+  + EXPECTED DATE: 10/12/2019
+  + END IN: 28h 13/12/2019
 web design
-  + EXPECTED DATE: 01/12/2019
-  + END IN: 1h 01/12/2019
+  + EXPECTED DATE: 14/12/2019
+  + END IN: 1h 14/12/2019
 // Job need
 / -Node js- /
 the web developer bootcamp
-  + EXPECTED DATE: 02/12/2019
-  + END IN: 46.5h 04/12/2019
+  + EXPECTED DATE: 16/12/2019
+  + END IN: 46.5h 18/12/2019
 the complete developer bootcamp
-  + EXPECTED DATE: 06/12/2019
-  + END IN: 43h 08/12/2019
+  + EXPECTED DATE: 19/12/2019
+  + END IN: 43h 21/12/2019
 / -Angular- /
 angular [fullapp]
-  + EXPECTED DATE: 09/12/2019
-  + END IN: 11h 11/12/2019
-BIG PROJECT: 12/12/2019-16/12/2019
-  + EXPECTED DATE: 16/12/2019
-  + END IN: 44.5h 20/12/2019
+  + EXPECTED DATE: 22/12/2019
+  + END IN: 11h 24/12/2019
+BIG PROJECT: 24/12/2019-28/12/2019
+  + EXPECTED DATE: 24/12/2019
+  + END IN: 44.5h 28/12/2019
 / -React js- /
 react - the complete guide
-  + EXPECTED DATE: 21/12/2019
-  + END IN: 44.5h 26/12/2019
+  + EXPECTED DATE: 29/12/2019
+  + END IN: 44.5h 03/1/2019
 / -Advanced course- /
 junior to senior roadmap
-  + EXPECTED DATE: 27/12/2019
-  + END IN: 34.5h 01/01/2020
+  + EXPECTED DATE: 04/1/2019
+  + END IN: 34.5h 06/01/2020
 BIG PROJECT
-  02/01/2020-06/01/2020
+  07/01/2020-10/01/2020
 CV-English: 10/01/2020
