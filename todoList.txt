@@ -1,41 +1,29 @@
 // Deep pure course
-advanced javascript concept
-  + 19/11/2019: 
-      - Summary from cratch to today 
-      - Module in javascript 
-  + END IN: 10h44' 5/12/2019
-master coding interview 
-  + EXPECTED DATE: 6/12/2019
-  + END IN: 19h 9/12/2019
+advanced javascript concept// finished
+ 
+master coding interview // 40%
+  trying finished in the next 3 days- end of day 12/12/2019
+ 
 advanced css & sass
-  + EXPECTED DATE: 10/12/2019
-  + END IN: 28h 13/12/2019
+  
 web design
-  + EXPECTED DATE: 14/12/2019
-  + END IN: 1h 14/12/2019
+ 
 // Job need
 / -Node js- /
 the web developer bootcamp
-  + EXPECTED DATE: 16/12/2019
-  + END IN: 46.5h 18/12/2019
+ 
 the complete developer bootcamp
-  + EXPECTED DATE: 19/12/2019
-  + END IN: 43h 21/12/2019
+ 
 / -Angular- /
 angular [fullapp]
-  + EXPECTED DATE: 22/12/2019
-  + END IN: 11h 24/12/2019
+  
 BIG PROJECT: 24/12/2019-28/12/2019
-  + EXPECTED DATE: 24/12/2019
-  + END IN: 44.5h 28/12/2019
+ 
 / -React js- /
 react - the complete guide
-  + EXPECTED DATE: 29/12/2019
-  + END IN: 44.5h 03/1/2019
+  
 / -Advanced course- /
 junior to senior roadmap
-  + EXPECTED DATE: 04/1/2019
-  + END IN: 34.5h 06/01/2020
+  
 BIG PROJECT
-  07/01/2020-10/01/2020
-CV-English: 10/01/2020
+
