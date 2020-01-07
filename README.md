@@ -5,3 +5,7 @@ trying...
 # TryLearning10NewEnglishWordsEveryDay
 # GymEveryDay
 # GetupSoon
+# This Week activities
+  - complete datastructure + algorithms
+  - complete css + sass
+  - complete angela yu course
