@@ -6,6 +6,6 @@ trying...
 # GymEveryDay
 # GetupSoon
 # This Week activities
-  - complete datastructure + algorithms
-  - complete css + sass
-  - complete angela yu course
+  - datastructure + algorithms
+  - css + sass
+  - angela yu course
