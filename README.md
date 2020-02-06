@@ -8,4 +8,4 @@ trying...
 # This Week activities
   - datastructure + algorithms
   - css + sass
-  - angela yu course
+  - adcanced javascript conscept
