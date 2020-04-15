@@ -2,7 +2,6 @@
 advanced javascript concept// finished
  
 master coding interview // 40%
-  trying finished in the next 3 days- end of day 12/12/2019
  
 advanced css & sass
   
@@ -10,18 +9,27 @@ web design
  
 # Job need
 / -Node js- /
-the web developer bootcamp
- 
-the complete developer bootcamp
- 
-/ -Angular- /
-angular [fullapp]
-  
-BIG PROJECT: 24/12/2019-28/12/2019
- 
+15-04 -> 19-04
+ Node.js, Express, MongoDB & More: The Complete Bootcamp 2020
+
+/ -Challenge- /
+20-04 -> 26-04
+ write full learned web app  again
+ wite full web app with Node.js in three days
 / -React js- /
-react - the complete guide
-  
+27-04 -> 03-05
+ React - The Complete Guide (incl Hooks, React Router, Redux) 
+ 4-05 -> 10-05
+ Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL)
+/ -Challenge- /
+11-05 -> 17-05
+MERN Stack React Node Multi User Blogging Platform with SEO 
+
+BIG PROJECT: 18-05 -> 24-05
+The Hell Site
+
+/ -Angular- /
+ angular [fullapp]  
 / -Advanced course- /
 junior to senior roadmap
   
