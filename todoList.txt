@@ -1,8 +1,6 @@
 # Deep pure course
 advanced javascript concept// finished
  
-
- 
 advanced css & sass
   
 web design
@@ -36,6 +34,3 @@ master coding interview
  angular [fullapp]  
 / -Advanced course- /
 junior to senior roadmap
-  
-
-
