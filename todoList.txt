@@ -1,7 +1,7 @@
 # Deep pure course
 advanced javascript concept// finished
  
-master coding interview // 40%
+
  
 advanced css & sass
   
@@ -27,12 +27,15 @@ MERN Stack React Node Multi User Blogging Platform with SEO
 
 BIG PROJECT: 18-05 -> 24-05
 The Hell Site
+master coding interview 
+
+# BIG PROJECT
+# CV
 
 / -Angular- /
  angular [fullapp]  
 / -Advanced course- /
 junior to senior roadmap
   
-# BIG PROJECT
-# CV
+
 
